@@ -31,12 +31,12 @@
 
 ### GIT
 
-- 해당 레포지토리를 fork해주세요!
-- 커밋 규칙은 없습니다! 자유롭게 작성해주세요!
-- 본인 레포에서 해당 레포지토리로 pr 날려주세요!
-  - mulmul/main <- donggeon/자유
+- branch는 number-donggeon으로 만들어주세요!
+- main <- number-donggeon으로 pr을 요청하세요!
+  - mulmul/main <- number-donggeon
 - pr이 요청되었다면, 모든 분들이 해당 내용을 확인하시고 댓글 달아주시면 감사하겠습니다!
   - 모든 분이 comment를 작성 완료하셨다면, 확인하시고 merge해주세요~ 
+- 해당 레포지토리를 fork하실 필요 없습니다! 브랜치를 나누어서 진행해요~
 
 
 
